@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:coveychen95?theme=rule34">
 
-## 前端工程师—陈可畏
+## 前端工程师—可畏
 
 热爱前端、热爱技术。工作经验5年。耐心不是毅力带来的结果，而是具有长远目光的结果。
 
