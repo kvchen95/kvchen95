@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:coveychen95?theme=rule34">
 
-## 前端工程师—可畏
+## 前端工程师 — 可畏
 
 🧑‍💼 **热爱技术，5年 web 前端。**  
 🚩 **二八定律为一生信仰！**  
