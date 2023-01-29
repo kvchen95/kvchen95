@@ -16,8 +16,8 @@
 
 <p align="center">
 <a href="https://github.com/coveychen95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coveychen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coveychen95&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=coveychen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coveychen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
