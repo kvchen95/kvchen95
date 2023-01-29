@@ -7,10 +7,11 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue)&nbsp;
+
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
 
 ### Github 活跃度
 
