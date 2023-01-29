@@ -8,9 +8,7 @@
 ### **技术栈:**
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue)&nbsp;
-
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
 
 ### Github 活跃度
