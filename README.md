@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:coveychen95?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:kvchen95?theme=rule34">
 
 ## 前端工程师 — 可畏
 
@@ -15,8 +15,8 @@
 ### Github 活跃度
 
 <p align="left">
-<a href="https://github.com/coveychen95" style="display: block;width: 100%">
-  <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=coveychen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coveychen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/kvchen95" style="display: block;width: 100%">
+  <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
