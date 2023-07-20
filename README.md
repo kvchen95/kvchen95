@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="https://github.com/kvchen95" style="display: block;width: 100%">
-  <img style="display: inline-block;min-width: 40%; max-width: 50%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img style="display: inline-block;min-width: 40%; max-width: 50%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+  <img style="display: inline-block; width: 50%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img style="display: inline-block; width: 50%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
