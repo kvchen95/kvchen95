@@ -15,11 +15,11 @@
 ### Github 活跃度
 
 
-<p align="left" >
+<p align="left" style="dispaly:flex;">
   <a>
-    <img height="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
   <a>
-    <img height="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
