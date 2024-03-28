@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:kvchen95?theme=rule34">
 
-## 前端工程师 — 可畏
+## 可畏
 
-👉 热爱**技术**，**5** 年 **web 前端**。  
+👉 **5** 年 **web 前端**，目前学习 **GoLang** ing。  
 🚩 **二八定律**为一生信仰！  
 ❤️ 每天反复做的事情成就了我们。 -- 亚里士多德
 
@@ -17,9 +17,9 @@
 
 <p align="left" >
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=kvchen95&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvchen95&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
