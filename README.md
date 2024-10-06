@@ -2,8 +2,6 @@
 
 ## 可畏（Kovi）  
 
-❤️ **今日事，今日毕！**
-
 👉 **5** years **Front-End Developer**。  
 🚩 **Pareto principle** is religion！  
 
