@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:kvchen95?theme=rule34">
 
-## 可畏（kv）
+## 可畏（Kovi）  
 
 ❤️ **今日事，今日毕！**
 
