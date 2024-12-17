@@ -1,15 +1,19 @@
 <img align="right" src="https://count.getloli.com/get/@:kvchen95?theme=rule34">
 
-## 可畏（Kovi）  
+## Kovi（可畏）  
 
 👉 **5** years **Front-End Developer**。  
 🚩 **Pareto principle** is religion！  
 
 
-### **技术栈:**
+### **Skills:**
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+
+
+
+
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 
@@ -25,7 +29,7 @@
 
 
 
-### Github 活跃度
+### Github Activity                                          
 
 
 <p align="left" style="dispaly:flex;">
