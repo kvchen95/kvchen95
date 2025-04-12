@@ -2,7 +2,7 @@
 
 ## Kovi（可畏）  
 
-👉 **5** years **Front-End Developer**。  
+👉 **7** years **Front-End Developer**。  
 🚩 **Pareto principle** is religion！  
 
 
