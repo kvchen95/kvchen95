@@ -13,7 +13,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 
 
 
